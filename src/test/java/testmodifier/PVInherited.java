@@ -10,7 +10,7 @@ import modifier.PrivateModifier;
 public class PVInherited extends PrivateModifier{
     public static void main(String[] args){
 //        ----------------------------------------------------
-//    不同类无法继承父类中的private修饰的方法和变量；
+//    不同包无法继承父类中的private修饰的方法和变量；
 //        PVInherited pvInherited = new PVInherited();
 //        pvInherited.privateTest();
 //        ----------------------------------------------------
